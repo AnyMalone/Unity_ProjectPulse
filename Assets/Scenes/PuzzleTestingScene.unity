@@ -1116,6 +1116,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6339439313410069281, guid: 3684f89db8f7bd34eb7b9ba0da0511df, type: 3}
+      propertyPath: m_Drag
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6339439313410069281, guid: 3684f89db8f7bd34eb7b9ba0da0511df, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6339439313410069283, guid: 3684f89db8f7bd34eb7b9ba0da0511df, type: 3}
       propertyPath: m_Name
       value: Grabbable object

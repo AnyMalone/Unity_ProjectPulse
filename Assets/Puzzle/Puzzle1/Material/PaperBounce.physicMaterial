@@ -7,8 +7,8 @@ PhysicMaterial:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PaperBounce
-  dynamicFriction: 10000000
-  staticFriction: 1e+9
+  dynamicFriction: 99
+  staticFriction: 99
   bounciness: 0.5
-  frictionCombine: 3
+  frictionCombine: 2
   bounceCombine: 0
